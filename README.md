@@ -20,7 +20,6 @@ To set up the project, clone this repository and install the required dependenci
 ```bash
 git clone https://github.com/yourusername/fake-news-detection.git
 cd fake-news-detection
-pip install -r requirements.txt
 ```
 
 ## Usage
