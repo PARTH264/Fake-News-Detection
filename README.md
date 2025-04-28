@@ -2,6 +2,12 @@
 
 ## Overview
 This project focuses on detecting fake news using machine learning and deep learning techniques. The pipeline involves text preprocessing, feature extraction, and model training.
+The goal is to automatically classify news articles as real or fake based on their textual content.
+
+## Project Files
+- **Fake_News_Detection_v9.ipynb: The original, complete, and fully functional notebook.**
+
+- **Fake_News_Detection.ipynb: A GitHub-compatible version where metadata has been removed for better viewing.**
 
 ## Features
 - **Text Preprocessing and Cleaning**
